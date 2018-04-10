@@ -17,7 +17,7 @@
  */
 
 require_once('LINEBotTiny.php');
-//require('pub.php');
+require('pub.php');
 
 $channelAccessToken = 'bvU+0BZagThDznc/cOZb5bl2+hbQ0cgNcDxq7faxZymmwr3rvtOYf5L9Yy7ZPqD7CqdtfI0bCRif+T7Kx2qLiaVWOm8Dte7Rt2HhbHg2SJbNtMqd91LGRqkv3a7BIt/QHeKnAOaayZKeYZH5uGMJ3wdB04t89/1O/w1cDnyilFU=';
 $channelSecret = '7968df1d12b2892c0b587650bd1293ad';
