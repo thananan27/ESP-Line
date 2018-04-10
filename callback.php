@@ -1,5 +1,5 @@
 <?php
- require("pub.php");
+ require("pubi.php");
  
  
  
